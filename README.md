@@ -33,7 +33,3 @@ Also add build css to package.json:
     "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
 
 ```
-
-```
-
-```
